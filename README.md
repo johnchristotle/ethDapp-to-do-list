@@ -1,5 +1,5 @@
 # ethDapp-to-do-list
-A 'to do list' powered by Ethereum smart contracts. built with JavaScript, Ganache, Truffle, Node.js and Metamask
+A 'to do list' powered by Ethereum smart contracts. built with JavaScript, Ganache, Truffle, Node.js, Metamask, jQuery, and Bootstrap
 
 GUIDE IN RUNNING THIS PROJECT:
 
